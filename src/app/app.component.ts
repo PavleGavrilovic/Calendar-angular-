@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'my-app';
+  arrowUrlPath:string='../assets/images/white-down-arrow-png-2.png';
 }
